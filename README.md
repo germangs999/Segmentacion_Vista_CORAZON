@@ -49,6 +49,7 @@ cuya entrada es el mismo volumen y la salida es la segmentación de las cinco re
 5. Atrio derecho
 
 Y las etiquetas se pueden observar de la siguiente manera:
+
 ![](images/segmentacion.png) 
 
 Finalmente, la función **segmentacion_a4c_vista** realiza ambas tareas.
