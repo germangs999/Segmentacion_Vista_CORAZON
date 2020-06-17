@@ -57,6 +57,12 @@ Finalmente, la función **segmentacion_a4c_vista** realiza ambas tareas.
 vol_segmentado1, vista1 = segmentacion_a4c_vista(vol)
 print(vista1)
 ```
+
+# Observaciones
+
 Los archivos **vistas.txt**, **util.py** y **fun_vista_segmentacion.py** son necesarias para el correcto funcionamiento del programa.
+Además, en la carpeta **models** deben encontrarse los pesos de las redes de clasificación y segmentación llamadas *view_23_e5_class_11-Mar-2018* y *a4c_45_20_all_model.ckpt-9000*. Todos los archivos necesarios no están en este repositorio porque pesan mucho, sin embargo, se pueden conseguir en la siguiente liga https://www.dropbox.com/sh/0tkcf7e0ljgs0b8/AACBnNiXZ7PetYeCcvb-Z9MSa?dl=0. DE tal manera, que la carpeta **models** se vea de la siguiente manera:
+
+
 
 
